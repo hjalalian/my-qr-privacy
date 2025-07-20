@@ -20,4 +20,4 @@ The extension does not use any remote code. All executable logic is included in 
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, please contact us at: [YOUR_EMAIL@example.com]
+If you have any questions about this Privacy Policy, please contact us at: [gstripeg@gmail.com]
